@@ -1,0 +1,17 @@
+button{
+    width: 200px;
+    height: 63px;
+    background: #FFFFFF;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    letter-spacing: 3.5px;
+    text-transform: uppercase;
+    color: #232323;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover{
+    background-color: #b4b4b4;
+    color: #ffffff;
+}
