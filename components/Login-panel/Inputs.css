@@ -1,12 +1,9 @@
-.inputs-container{
-    height: 300px;
-    color: #fff;
-}
-
 form{
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 300px;
+    color: #fff;
 }
 
 label{
